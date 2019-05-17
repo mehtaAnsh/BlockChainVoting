@@ -1,0 +1,14 @@
+#__next > div > div > div:nth-child(2) > div
+{
+/*     background-image: url("bg2.png");    
+ */
+ background-color: #0688ba;
+  background: url('/static/banner.jpg') no-repeat;
+/*  background-size:cover; */
+ background-origin: inherit;
+
+}
+#__next > div > div > div:nth-child(2) > div > div.ui.large.inverted.pointing.secondary.menu
+{
+    border-width: 0mm;
+}

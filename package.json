@@ -1,0 +1,42 @@
+{
+  "name": "projecteth",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.18.3",
+    "chart.js": "^2.8.0",
+    "chartjs": "^0.3.24",
+    "chartjs-plugin-annotation": "^0.5.7",
+    "express": "^4.16.4",
+    "fs-extra": "^7.0.1",
+    "ganache-cli": "^6.4.1",
+    "ipfs-api": "^26.1.2",
+    "js-cookie": "^2.2.0",
+    "mongoose": "^5.5.1",
+    "next": "^8.0.3",
+    "next-routes": "^1.4.2",
+    "nodemailer": "^6.1.0",
+    "path": "^0.12.7",
+    "react": "^16.8.5",
+    "react-chartjs-2": "^2.7.6",
+    "react-dom": "^16.8.5",
+    "react-helmet": "^5.2.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.86.0",
+    "solc": "^0.4.25",
+    "truffle-hdwallet-provider": "^1.0.5",
+    "web3": "^1.0.0-beta.52"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

@@ -1,0 +1,15 @@
+#__next > div > div > div > div:nth-child(2) > div:nth-child(2) > img
+{
+    position: relative;
+    margin: auto;
+    top: 10;
+}
+#__next > div > div > div > div:nth-child(2) > div.sixteen.wide.column > div.column
+{
+    position: relative;
+    margin: auto;
+    height: 70vh;
+    width: 85%;
+    padding-left: 15%;
+    padding-top: 150px;
+}

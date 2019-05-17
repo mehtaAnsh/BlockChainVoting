@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "module": "ES6",
+    "target": "es2017",
+    "lib": ["es5", "dom", "dom.iterable", "es6"],
+    "noEmit": false,
+    "strict": true,
+    "sourceMap": false,
+    "declaration": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "outDir": "dist_es8"
+  },
+  "include": [
+    "src/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ],
+  "files": [
+    "src/entry-export_all.ts"
+  ]
+}
