@@ -9,6 +9,7 @@
     "chart.js": "^2.8.0",
     "chartjs": "^0.3.24",
     "chartjs-plugin-annotation": "^0.5.7",
+    "dotenv": "^8.2.0",
     "express": "^4.16.4",
     "fs-extra": "^7.0.1",
     "ganache-cli": "^6.4.1",
@@ -33,10 +34,19 @@
     "mocha": "^6.1.4"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "A blockchain-based E-voting system, created for the final year project of my college, with the help of my Project partners, Sayyam Gada and Charmee Mehta.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehtaAnsh/BlockChainVoting-Private.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mehtaAnsh/BlockChainVoting-Private/issues"
+  },
+  "homepage": "https://github.com/mehtaAnsh/BlockChainVoting-Private#readme"
 }

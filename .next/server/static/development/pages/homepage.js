@@ -456,7 +456,7 @@ var HomepageHeading = function HomepageHeading(_ref) {
       fontWeight: 'normal',
       marginBottom: 0,
       marginTop: mobile ? '1.5em' : '2em',
-      color: "black"
+      color: 'black'
     }
   }), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(semantic_ui_react__WEBPACK_IMPORTED_MODULE_10__["Header"], {
     as: "h4",
@@ -466,7 +466,7 @@ var HomepageHeading = function HomepageHeading(_ref) {
       fontSize: mobile ? '1.5em' : '1.7em',
       fontWeight: 'normal',
       marginTop: mobile ? '0.5em' : '1.5em',
-      color: "grey"
+      color: 'grey'
     }
   }), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("div", {
     style: {
@@ -484,8 +484,8 @@ var HomepageHeading = function HomepageHeading(_ref) {
     primary: true,
     size: "huge",
     style: {
-      color: "white",
-      backgroundColor: "#627eea"
+      color: 'white',
+      backgroundColor: '#627eea'
     }
   }, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(semantic_ui_react__WEBPACK_IMPORTED_MODULE_10__["Icon"], {
     name: "left arrow"
@@ -499,14 +499,14 @@ var HomepageHeading = function HomepageHeading(_ref) {
     style: {
       color: 'grey'
     }
-  }, " Sign in for Voters!"), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(_routes__WEBPACK_IMPORTED_MODULE_9__["Link"], {
+  }, ' ', "Sign in for Voters!"), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(_routes__WEBPACK_IMPORTED_MODULE_9__["Link"], {
     route: "/voter_login"
   }, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(semantic_ui_react__WEBPACK_IMPORTED_MODULE_10__["Button"], {
     primary: true,
     size: "huge",
     style: {
-      color: "white",
-      backgroundColor: "#627eea"
+      color: 'white',
+      backgroundColor: '#627eea'
     }
   }, "Voters", react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(semantic_ui_react__WEBPACK_IMPORTED_MODULE_10__["Icon"], {
     name: "right arrow"
@@ -560,11 +560,7 @@ function (_Component) {
       return react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(semantic_ui_react__WEBPACK_IMPORTED_MODULE_10__["Responsive"], null, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("link", {
         rel: "stylesheet",
         href: "//cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css"
-      }), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(react_helmet__WEBPACK_IMPORTED_MODULE_12__["Helmet"], null, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("link", {
-        href: "http://allfont.net/allfont.css?fonts=freestyle-script-normal",
-        rel: "stylesheet",
-        type: "text/css"
-      }), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("title", null, "HomePage"), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("link", {
+      }), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(react_helmet__WEBPACK_IMPORTED_MODULE_12__["Helmet"], null, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("title", null, "HomePage"), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("link", {
         rel: "shortcut icon",
         type: "image/x-icon",
         href: "../../static/logo3.png"
@@ -591,11 +587,11 @@ function (_Component) {
         style: {
           color: '#627eea',
           verticalAlign: 'middle',
-          fontFamily: 'Comic Sans MS',
+          fontFamily: 'Freestyle Script',
           fontSize: '400%',
-          paddingLeft: '30%'
+          paddingLeft: '42%'
         }
-      }, "BlockChainVoting"))), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(HomepageHeading, null))), children);
+      }, "BlockVotes"))), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(HomepageHeading, null))), children);
     }
   }]);
 
@@ -684,27 +680,27 @@ var HomepageLayout = function HomepageLayout() {
     vertical: true,
     style: {
       padding: '5em 0em',
-      backgroundColor: "#627eea"
+      backgroundColor: '#627eea'
     }
   }, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(semantic_ui_react__WEBPACK_IMPORTED_MODULE_10__["Container"], null, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(semantic_ui_react__WEBPACK_IMPORTED_MODULE_10__["Header"], {
     as: "h3",
     style: {
       fontSize: '2em',
-      color: "white",
-      textAlign: "center"
+      color: 'white',
+      textAlign: 'center'
     }
   }, "A fascinating quote"), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("p", {
     style: {
       fontSize: '1.33em',
-      textAlign: "center",
+      textAlign: 'center',
       fontStyle: 'Italic'
     }
   }, "\"We have elected to put our money and faith in a mathematical framework that is free of politics and human error.\""), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(semantic_ui_react__WEBPACK_IMPORTED_MODULE_10__["Header"], {
     as: "h2",
     style: {
       fontSize: '1.33em',
-      color: "white",
-      textAlign: "center"
+      color: 'white',
+      textAlign: 'center'
     }
   }, "Tyler Winklevoss"))));
 };
@@ -748,7 +744,7 @@ module.exports = routes;
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\Blockchain\BlockChainVoting\pages\homepage.js */"./pages/homepage.js");
+module.exports = __webpack_require__(/*! D:\BlockChainVoting\BlockChainVoting-Private\pages\homepage.js */"./pages/homepage.js");
 
 
 /***/ }),

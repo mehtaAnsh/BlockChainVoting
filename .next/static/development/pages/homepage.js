@@ -23298,10 +23298,10 @@ exports.formatWithValidation = formatWithValidation;
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fhomepage&absolutePagePath=D%3A%5CBlockchain%5CBlockChainVoting%5Cpages%5Chomepage.js!./":
-/*!*******************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fhomepage&absolutePagePath=D%3A%5CBlockchain%5CBlockChainVoting%5Cpages%5Chomepage.js ***!
-  \*******************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fhomepage&absolutePagePath=D%3A%5CBlockChainVoting%5CBlockChainVoting-Private%5Cpages%5Chomepage.js!./":
+/*!*********************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fhomepage&absolutePagePath=D%3A%5CBlockChainVoting%5CBlockChainVoting-Private%5Cpages%5Chomepage.js ***!
+  \*********************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -24381,12 +24381,12 @@ module.exports = __webpack_require__(/*! ./dist/client/router */ "./node_modules
 
 /***/ "./node_modules/object-assign/index.js":
 /*!***************************************************************************************************!*\
-  !*** delegated ./node_modules/object-assign/index.js from dll-reference dll_c190dfa1492c1c94609c ***!
+  !*** delegated ./node_modules/object-assign/index.js from dll-reference dll_8340517bf3dce2849f8d ***!
   \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_c190dfa1492c1c94609c */ "dll-reference dll_c190dfa1492c1c94609c"))("./node_modules/object-assign/index.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_8340517bf3dce2849f8d */ "dll-reference dll_8340517bf3dce2849f8d"))("./node_modules/object-assign/index.js");
 
 /***/ }),
 
@@ -25795,12 +25795,12 @@ exports.encode = exports.stringify = __webpack_require__(/*! ./encode */ "./node
 
 /***/ "./node_modules/react-dom/index.js":
 /*!***********************************************************************************************!*\
-  !*** delegated ./node_modules/react-dom/index.js from dll-reference dll_c190dfa1492c1c94609c ***!
+  !*** delegated ./node_modules/react-dom/index.js from dll-reference dll_8340517bf3dce2849f8d ***!
   \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_c190dfa1492c1c94609c */ "dll-reference dll_c190dfa1492c1c94609c"))("./node_modules/react-dom/index.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_8340517bf3dce2849f8d */ "dll-reference dll_8340517bf3dce2849f8d"))("./node_modules/react-dom/index.js");
 
 /***/ }),
 
@@ -27110,12 +27110,12 @@ module.exports = withSideEffect;
 
 /***/ "./node_modules/react/index.js":
 /*!*******************************************************************************************!*\
-  !*** delegated ./node_modules/react/index.js from dll-reference dll_c190dfa1492c1c94609c ***!
+  !*** delegated ./node_modules/react/index.js from dll-reference dll_8340517bf3dce2849f8d ***!
   \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_c190dfa1492c1c94609c */ "dll-reference dll_c190dfa1492c1c94609c"))("./node_modules/react/index.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_8340517bf3dce2849f8d */ "dll-reference dll_8340517bf3dce2849f8d"))("./node_modules/react/index.js");
 
 /***/ }),
 
@@ -42005,7 +42005,7 @@ var partitionHTMLProps = function partitionHTMLProps(props) {
 /*!*************************************************************!*\
   !*** ./node_modules/semantic-ui-react/dist/es/lib/index.js ***!
   \*************************************************************/
-/*! exports provided: AutoControlledComponent, getChildMapping, mergeChildMappings, childrenUtils, useKeyOnly, useKeyOrValueAndKey, useValueAndKey, useMultipleProp, useTextAlignProp, useVerticalAlignProp, useWidthProp, customPropTypes, eventStack, createShorthand, createShorthandFactory, createHTMLDivision, createHTMLIframe, createHTMLImage, createHTMLInput, createHTMLLabel, createHTMLParagraph, getUnhandledProps, getElementType, htmlInputAttrs, htmlInputEvents, htmlInputProps, htmlImageProps, partitionHTMLProps, isBrowser, doesNodeContainClick, leven, createPaginationItems, SUI, numberToWordMap, numberToWord, normalizeOffset, normalizeTransitionDuration, objectDiff, handleRef, isRefObject */
+/*! exports provided: AutoControlledComponent, getChildMapping, mergeChildMappings, childrenUtils, useKeyOnly, useKeyOrValueAndKey, useValueAndKey, useMultipleProp, useTextAlignProp, useVerticalAlignProp, useWidthProp, customPropTypes, eventStack, getUnhandledProps, getElementType, htmlInputAttrs, htmlInputEvents, htmlInputProps, htmlImageProps, partitionHTMLProps, isBrowser, doesNodeContainClick, leven, createPaginationItems, SUI, numberToWordMap, numberToWord, normalizeOffset, normalizeTransitionDuration, objectDiff, handleRef, isRefObject, createShorthand, createShorthandFactory, createHTMLDivision, createHTMLIframe, createHTMLImage, createHTMLInput, createHTMLLabel, createHTMLParagraph */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -55372,12 +55372,12 @@ module.exports = {
 
 /***/ "./node_modules/webpack/buildin/global.js":
 /*!******************************************************************************************************!*\
-  !*** delegated ./node_modules/webpack/buildin/global.js from dll-reference dll_c190dfa1492c1c94609c ***!
+  !*** delegated ./node_modules/webpack/buildin/global.js from dll-reference dll_8340517bf3dce2849f8d ***!
   \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_c190dfa1492c1c94609c */ "dll-reference dll_c190dfa1492c1c94609c"))("./node_modules/webpack/buildin/global.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_8340517bf3dce2849f8d */ "dll-reference dll_8340517bf3dce2849f8d"))("./node_modules/webpack/buildin/global.js");
 
 /***/ }),
 
@@ -55469,7 +55469,7 @@ var HomepageHeading = function HomepageHeading(_ref) {
       fontWeight: 'normal',
       marginBottom: 0,
       marginTop: mobile ? '1.5em' : '2em',
-      color: "black"
+      color: 'black'
     }
   }), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(semantic_ui_react__WEBPACK_IMPORTED_MODULE_10__["Header"], {
     as: "h4",
@@ -55479,7 +55479,7 @@ var HomepageHeading = function HomepageHeading(_ref) {
       fontSize: mobile ? '1.5em' : '1.7em',
       fontWeight: 'normal',
       marginTop: mobile ? '0.5em' : '1.5em',
-      color: "grey"
+      color: 'grey'
     }
   }), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("div", {
     style: {
@@ -55497,8 +55497,8 @@ var HomepageHeading = function HomepageHeading(_ref) {
     primary: true,
     size: "huge",
     style: {
-      color: "white",
-      backgroundColor: "#627eea"
+      color: 'white',
+      backgroundColor: '#627eea'
     }
   }, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(semantic_ui_react__WEBPACK_IMPORTED_MODULE_10__["Icon"], {
     name: "left arrow"
@@ -55512,14 +55512,14 @@ var HomepageHeading = function HomepageHeading(_ref) {
     style: {
       color: 'grey'
     }
-  }, " Sign in for Voters!"), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(_routes__WEBPACK_IMPORTED_MODULE_9__["Link"], {
+  }, ' ', "Sign in for Voters!"), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(_routes__WEBPACK_IMPORTED_MODULE_9__["Link"], {
     route: "/voter_login"
   }, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(semantic_ui_react__WEBPACK_IMPORTED_MODULE_10__["Button"], {
     primary: true,
     size: "huge",
     style: {
-      color: "white",
-      backgroundColor: "#627eea"
+      color: 'white',
+      backgroundColor: '#627eea'
     }
   }, "Voters", react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(semantic_ui_react__WEBPACK_IMPORTED_MODULE_10__["Icon"], {
     name: "right arrow"
@@ -55573,11 +55573,7 @@ function (_Component) {
       return react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(semantic_ui_react__WEBPACK_IMPORTED_MODULE_10__["Responsive"], null, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("link", {
         rel: "stylesheet",
         href: "//cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css"
-      }), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(react_helmet__WEBPACK_IMPORTED_MODULE_12__["Helmet"], null, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("link", {
-        href: "http://allfont.net/allfont.css?fonts=freestyle-script-normal",
-        rel: "stylesheet",
-        type: "text/css"
-      }), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("title", null, "HomePage"), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("link", {
+      }), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(react_helmet__WEBPACK_IMPORTED_MODULE_12__["Helmet"], null, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("title", null, "HomePage"), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("link", {
         rel: "shortcut icon",
         type: "image/x-icon",
         href: "../../static/logo3.png"
@@ -55604,11 +55600,11 @@ function (_Component) {
         style: {
           color: '#627eea',
           verticalAlign: 'middle',
-          fontFamily: 'Comic Sans MS',
+          fontFamily: 'Freestyle Script',
           fontSize: '400%',
-          paddingLeft: '30%'
+          paddingLeft: '42%'
         }
-      }, "BlockChainVoting"))), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(HomepageHeading, null))), children);
+      }, "BlockVotes"))), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(HomepageHeading, null))), children);
     }
   }]);
 
@@ -55697,27 +55693,27 @@ var HomepageLayout = function HomepageLayout() {
     vertical: true,
     style: {
       padding: '5em 0em',
-      backgroundColor: "#627eea"
+      backgroundColor: '#627eea'
     }
   }, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(semantic_ui_react__WEBPACK_IMPORTED_MODULE_10__["Container"], null, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(semantic_ui_react__WEBPACK_IMPORTED_MODULE_10__["Header"], {
     as: "h3",
     style: {
       fontSize: '2em',
-      color: "white",
-      textAlign: "center"
+      color: 'white',
+      textAlign: 'center'
     }
   }, "A fascinating quote"), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("p", {
     style: {
       fontSize: '1.33em',
-      textAlign: "center",
+      textAlign: 'center',
       fontStyle: 'Italic'
     }
   }, "\"We have elected to put our money and faith in a mathematical framework that is free of politics and human error.\""), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(semantic_ui_react__WEBPACK_IMPORTED_MODULE_10__["Header"], {
     as: "h2",
     style: {
       fontSize: '1.33em',
-      color: "white",
-      textAlign: "center"
+      color: 'white',
+      textAlign: 'center'
     }
   }, "Tyler Winklevoss"))));
 };
@@ -55744,25 +55740,25 @@ module.exports = routes;
 /***/ }),
 
 /***/ 1:
-/*!***********************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2Fhomepage&absolutePagePath=D%3A%5CBlockchain%5CBlockChainVoting%5Cpages%5Chomepage.js ***!
-  \***********************************************************************************************************************************/
+/*!*************************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2Fhomepage&absolutePagePath=D%3A%5CBlockChainVoting%5CBlockChainVoting-Private%5Cpages%5Chomepage.js ***!
+  \*************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fhomepage&absolutePagePath=D%3A%5CBlockchain%5CBlockChainVoting%5Cpages%5Chomepage.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fhomepage&absolutePagePath=D%3A%5CBlockchain%5CBlockChainVoting%5Cpages%5Chomepage.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fhomepage&absolutePagePath=D%3A%5CBlockChainVoting%5CBlockChainVoting-Private%5Cpages%5Chomepage.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fhomepage&absolutePagePath=D%3A%5CBlockChainVoting%5CBlockChainVoting-Private%5Cpages%5Chomepage.js!./");
 
 
 /***/ }),
 
-/***/ "dll-reference dll_c190dfa1492c1c94609c":
+/***/ "dll-reference dll_8340517bf3dce2849f8d":
 /*!*******************************************!*\
-  !*** external "dll_c190dfa1492c1c94609c" ***!
+  !*** external "dll_8340517bf3dce2849f8d" ***!
   \*******************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = dll_c190dfa1492c1c94609c;
+module.exports = dll_8340517bf3dce2849f8d;
 
 /***/ })
 
