@@ -10,25 +10,24 @@ npm install
 
 # serve with hot reload at localhost:3000
 npm start
-
 ```
 
-Note:
-1. Make sure to install Node.js v11.14.0 to make sure the app runs fine. Testing for other node versions is yet to be done.
-2. MongoDB must be working in background on localhost:27017
+Create your own <b>.env</b> file and the file should contain:
+```bash
+EMAIL=YOUR_EMAIL_ID
+PASSWORD=YOUR_PASSWORD_FOR_EMAIL_ID
+```
 
-## Technologies used:
+#### Note:
+- Make sure to install Node.js v11.14.0 to make sure the app runs fine. Testing for other node versions is yet to be done.
+- MongoDB must be working in background on localhost:27017
 
--   Solidity
--   Web3
--   Node Mailer
--   AJAX
--   Next.js
--   Semantic UI React
--   IPFS
--   MongoDB
--   ExpressJS
--   Node.js (v11.14.0)
+## Tech Stack:
+
+- Solidity/Web3 (for writing/connecting the Blockchain contract)
+- Next.js & Semantic UI React (front-end)
+- MongoDB/ExpressJS/Node.js (back-end)
+- IPFS (file storage for images)
 
 ## Screenshots of the app:
 
