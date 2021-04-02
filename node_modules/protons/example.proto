@@ -1,4 +1,0 @@
-message Test {
-  optional string foo = 1;
-  required int32 num = 2;
-}
