@@ -16,7 +16,7 @@
     "ipfs-api": "^26.1.2",
     "js-cookie": "^2.2.0",
     "mongoose": "^5.5.1",
-    "next": "^8.0.3",
+    "next": "^9.3.2",
     "next-routes": "^1.4.2",
     "nodemailer": "^6.1.0",
     "path": "^0.12.7",
