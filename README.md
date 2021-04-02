@@ -54,7 +54,7 @@ List of candidates for the election (here, you can add candidates):
 
 Candidate has been notified on the mail:
 
-![](screenshots/candidate_registration_mail.PNG)
+![](screenshots/candidate_registeration_mail.PNG)
 
 List of voters for the election (here, you can add voters):
 
@@ -62,7 +62,7 @@ List of voters for the election (here, you can add voters):
 
 Voters have been sent their secure usernames and passwords on the mail:
 
-![](screenshots/voter_registration_mail.PNG)
+![](screenshots/voter_registeration_mail.PNG)
 
 Voter login page:
 
