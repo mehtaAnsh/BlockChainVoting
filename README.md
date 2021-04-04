@@ -1,7 +1,7 @@
 # BlockChainVoting
 
 A blockchain-based E-voting system, created as the final year project of Shri Bhagubhai Mafatlal Polytechnic. Teammates include me, Sayyam Gada and Charmee Mehta.
-> The application is registered under MIT License.
+> The application is registered under GNU GPL License v3.
 
 ## Build Setup
 
