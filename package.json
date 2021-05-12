@@ -18,7 +18,7 @@
     "mongoose": "^5.5.1",
     "next": "^8.0.3",
     "next-routes": "^1.4.2",
-    "nodemailer": "^6.1.0",
+    "nodemailer": "^6.4.16",
     "path": "^0.12.7",
     "react": "^16.8.5",
     "react-chartjs-2": "^2.7.6",
