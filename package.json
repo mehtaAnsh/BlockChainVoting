@@ -6,7 +6,7 @@
     "@zeit/next-css": "^1.0.1",
     "bcrypt": "^3.0.6",
     "body-parser": "^1.18.3",
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "chartjs": "^0.3.24",
     "chartjs-plugin-annotation": "^0.5.7",
     "dotenv": "^8.2.0",
