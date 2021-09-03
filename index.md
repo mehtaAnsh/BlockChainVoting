@@ -1,37 +1,84 @@
-## Welcome to GitHub Pages
+# BlockChainVoting
 
-You can use the [editor on GitHub](https://github.com/mehtaAnsh/BlockChainVoting/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A blockchain-based E-voting system, created as the final year project of Shri Bhagubhai Mafatlal Polytechnic. Teammates include me, Sayyam Gada and Charmee Mehta.
+> The application is MIT-Licensed.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Build Setup
 
-### Markdown
+```bash
+# install dependencies
+npm install
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# serve with hot reload at localhost:3000
+npm start
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Create your own <b>.env</b> file and the file should contain:
+```bash
+EMAIL=YOUR_EMAIL_ID
+PASSWORD=YOUR_PASSWORD_FOR_EMAIL_ID
+```
+Install MetaMask extension (https://metamask.io/download.html) and make sure to have some Ether to test the application locally. Ether can be fetched from Rinkeby Faucet (https://faucet.rinkeby.io)
 
-### Jekyll Themes
+#### Note:
+- Make sure to install Node.js v11.14.0 to make sure the app runs fine. Testing for other node versions is yet to be done.
+- MongoDB must be working in background on localhost:27017
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mehtaAnsh/BlockChainVoting/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+###### Please star the repo if it helped you in any way!
 
-### Support or Contact
+## Tech Stack:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Solidity/Web3 (for writing/connecting the Blockchain contract)
+- Next.js & Semantic UI React (front-end)
+- MongoDB/ExpressJS/Node.js (back-end)
+- IPFS (file storage for images)
+
+## Screenshots of the app:
+
+Homepage of the application:
+
+![](screenshots/homepage.PNG)
+
+Company registers/logs in:
+
+![](screenshots/company_login.PNG)
+
+Company creates an election if not created:
+
+![](screenshots/create_election.PNG)
+
+Dashboard on successful election creation:
+
+![](screenshots/dashboard.PNG)
+
+List of candidates for the election (here, you can add candidates):
+
+![](screenshots/candidate_list.PNG)
+
+Candidate has been notified on the mail:
+
+![](screenshots/candidate_registeration_mail.PNG)
+
+List of voters for the election (here, you can add voters):
+
+![](screenshots/voterlist.PNG)
+
+Voters have been sent their secure usernames and passwords on the mail:
+
+![](screenshots/voter_registeration_mail.PNG)
+
+Voter login page:
+
+![](screenshots/voter_login.PNG)
+
+Successful voting scenario:
+
+![](screenshots/successful_voting.PNG)
+
+Unsuccessful voting scenario:
+
+![](screenshots/unsuccessful_voting.PNG)
+
+Notification to each candidate and voter for the winner of candidates:
+
+![](screenshots/winner_candidate_mail.PNG)
