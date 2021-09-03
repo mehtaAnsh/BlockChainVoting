@@ -37,48 +37,48 @@ Install MetaMask extension (https://metamask.io/download.html) and make sure to 
 
 Homepage of the application:
 
-![](screenshots/homepage.PNG)
+<img src="https://raw.githubusercontent.com/mehtaAnsh/BlockChainVoting/master/screenshots/homepage.PNG" alt="..."/>
 
 Company registers/logs in:
 
-![](screenshots/company_login.PNG)
+![](https://raw.githubusercontent.com/mehtaAnsh/BlockChainVoting/master/screenshots/company_login.PNG)
 
 Company creates an election if not created:
 
-![](screenshots/create_election.PNG)
+![](https://raw.githubusercontent.com/mehtaAnsh/BlockChainVoting/master/screenshots/create_election.PNG)
 
 Dashboard on successful election creation:
 
-![](screenshots/dashboard.PNG)
+![](https://raw.githubusercontent.com/mehtaAnsh/BlockChainVoting/master/screenshots/dashboard.PNG)
 
 List of candidates for the election (here, you can add candidates):
 
-![](screenshots/candidate_list.PNG)
+![](https://raw.githubusercontent.com/mehtaAnsh/BlockChainVoting/master/screenshots/candidate_list.PNG)
 
 Candidate has been notified on the mail:
 
-![](screenshots/candidate_registeration_mail.PNG)
+![](https://raw.githubusercontent.com/mehtaAnsh/BlockChainVoting/master/screenshots/candidate_registeration_mail.PNG)
 
 List of voters for the election (here, you can add voters):
 
-![](screenshots/voterlist.PNG)
+![](https://raw.githubusercontent.com/mehtaAnsh/BlockChainVoting/master/screenshots/voterlist.PNG)
 
 Voters have been sent their secure usernames and passwords on the mail:
 
-![](screenshots/voter_registeration_mail.PNG)
+![](https://raw.githubusercontent.com/mehtaAnsh/BlockChainVoting/master/screenshots/voter_registeration_mail.PNG)
 
 Voter login page:
 
-![](screenshots/voter_login.PNG)
+![](https://raw.githubusercontent.com/mehtaAnsh/BlockChainVoting/master/screenshots/voter_login.PNG)
 
 Successful voting scenario:
 
-![](screenshots/successful_voting.PNG)
+![](https://raw.githubusercontent.com/mehtaAnsh/BlockChainVoting/master/screenshots/successful_voting.PNG)
 
 Unsuccessful voting scenario:
 
-![](screenshots/unsuccessful_voting.PNG)
+![](https://raw.githubusercontent.com/mehtaAnsh/BlockChainVoting/master/screenshots/unsuccessful_voting.PNG)
 
 Notification to each candidate and voter for the winner of candidates:
 
-![](screenshots/winner_candidate_mail.PNG)
+![](https://raw.githubusercontent.com/mehtaAnsh/BlockChainVoting/master/screenshots/winner_candidate_mail.PNG)
