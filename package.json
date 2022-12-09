@@ -10,7 +10,7 @@
     "chartjs": "^0.3.24",
     "chartjs-plugin-annotation": "^0.5.7",
     "dotenv": "^8.2.0",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "fs-extra": "^7.0.1",
     "ganache-cli": "^6.4.1",
     "ipfs-api": "^26.1.2",
